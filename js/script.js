@@ -18,6 +18,7 @@ for( numeri = 1; numeri <=100; numeri++) {
     // se è multiplo di 3 stampa Fizz
     }else if(numeri % 3 == 0){
         console.log("Fizz");
+    // se non è multiplo di 3 e 5 stampa numero
     }else {
         console.log(numeri);
     }
